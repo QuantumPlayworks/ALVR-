@@ -3,9 +3,11 @@
 # ALVR+
 # Suport For RTX 2050
 
-Includes Quest 1
-Includes Proper Mobile VR
-Stream VR games from your PC to your headset over Wi-Fi.  
+# Includes Quest 1
+
+# Includes Proper Mobile VR Suport
+
+# Stream VR games from your PC to your headset over Wi-Fi.  
 
 
 ## Compatibility
